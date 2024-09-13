@@ -1,0 +1,240 @@
+{
+  "heading": "Types of sentence",
+  "topics": [
+    {
+      "heading": "Types of sentence",
+      "questions": [
+        {
+          "questionNo": 1,
+          "question": "Fill in the blank:<br><span style='color: blue; font-weight: bold;'> A _____ sentence ends with a (?).</span>",
+          "options": [
+            { "text": "statement" },
+            { "text": "question" },
+            { "text": "command" }
+          ],
+          "answer": 1,
+          "explanation": "Questions always end with a question mark."
+        },
+        {
+          "questionNo": 2,
+          "question": "Which sentence is giving an order?",
+          "options": [
+            { "text": "The cat is sleeping." },
+            { "text": "Is it raining outside?" },
+            { "text": "Please be quiet." }
+          ],
+          "answer": 2,
+          "explanation": "This is telling someone to do something."
+        },
+        {
+          "questionNo": 3,
+          "question": "What type of sentence is<br> <span style='color: blue; font-weight: bold;'>\"The sun is shining brightly.\"?</span><br> <img width='150px' src='./assests/images/question/3.png'>",
+          "options": [
+            { "text": "Exclamation" },
+            { "text": "Statement" },
+            { "text": "Question" }
+          ],
+          "answer": 1,
+          "explanation": "It's telling us about the sun, thus it is a statement."
+        },
+        {
+          "questionNo": 4,
+          "question": "Fill in the blank:<br><span style='color: blue; font-weight: bold;'> \"_____ a great day!\" is an exclamation.</span><br> <img width='150px' src='./assests/images/question/4.png'>",
+          "options": [
+            { "text": "Have" },
+            { "text": "Having" },
+            { "text": "Had" }
+          ],
+          "answer": 0,
+          "explanation": "\"Have a great day!\" is an exclamation showing enthusiasm."
+        },
+        {
+          "questionNo": 5,
+          "question": "Which sentence shows strong feelings?",
+          "options": [
+            { "text": "The book is on the table." },
+            { "text": "Where is my pencil?" },
+            { "text": "What a beautiful rainbow!" }
+          ],
+          "answer": 2,
+          "explanation": "This shows excitement about the rainbow."
+        },
+        {
+          "questionNo": 6,
+          "question": "What kind of sentence is<br><span style='color: blue; font-weight: bold;'> \"Can you help me, please?\"</span>?",
+          "options": [
+            { "text": "Command" },
+            { "text": "Question" },
+            { "text": "Statement" }
+          ],
+          "answer": 1,
+          "explanation": "It's asking for help and ends with a question mark."
+        },
+        {
+          "questionNo": 7,
+          "question": "Which sentence is telling, not asking?",
+          "options": [
+            { "text": "How old are you?" },
+            { "text": "Rabbits like to eat carrots." },
+            { "text": "Sing a song for me." }
+          ],
+          "answer": 1,
+          "explanation": "This is stating a fact about rabbits."
+        },
+        {
+          "questionNo": 8,
+          "question": "Fill in the blank:<br><span style='color: blue; font-weight: bold;'> \"_____ the door, please\" is a command.</span>",
+          "options": [
+            { "text": "Opened" },
+            { "text": "Opening" },
+            { "text": "Open" }
+          ],
+          "answer": 2,
+          "explanation": "Commands often start with a verb telling what to do."
+        },
+        {
+          "questionNo": 9,
+          "question": "Which sentence is asking about time?",
+          "options": [
+            { "text": "It's 3 o'clock." },
+            { "text": "What time is it?" },
+            { "text": "Time to go to bed." }
+          ],
+          "answer": 1,
+          "explanation": "This is a question asking about the current time."
+        },
+        {
+          "questionNo": 10,
+          "question": "What kind of sentence is<span style='color: blue; font-weight: bold;'> \"I love pizza.\"</span>?<br> <img width='150px' src='./assests/images/question/10.png'>",
+          "options": [
+            { "text": "Question" },
+            { "text": "Statement" },
+            { "text": "Command" }
+          ],
+          "answer": 1,
+          "explanation": "It's telling us about a preference."
+        },
+        {
+          "questionNo": 11,
+          "question": "Fill in the blank:<br><span style='color: blue; font-weight: bold;'> An _____ sentence shows strong feelings.</span>",
+          "options": [
+            { "text": "exclamation" },
+            { "text": "statement" },
+            { "text": "question" }
+          ],
+          "answer": 0,
+          "explanation": "Exclamations express strong emotions."
+        },
+        {
+          "questionNo": 12,
+          "question": "Which sentence is giving instructions?",
+          "options": [
+            { "text": "The ball is round." },
+            { "text": "Is the ball round?" },
+            { "text": "Throw the ball to me." }
+          ],
+          "answer": 2,
+          "explanation": "This is telling someone what to do."
+        },
+        {
+          "questionNo": 13,
+          "question": "What type of sentence is <br><span style='color: blue; font-weight: bold;'>\"Are you coming to the party?\"</span>?",
+          "options": [
+            { "text": "Statement" },
+            { "text": "Question" },
+            { "text": "Command" }
+          ],
+          "answer": 1,
+          "explanation": "It's asking for information and ends with a question mark."
+        },
+        {
+          "questionNo": 14,
+          "question": "Fill in the blank:<br><span style='color: blue; font-weight: bold;'> \"The dog is _____ \" is a statement.</span><br> <img width='150px' src='./assests/images/question/14.png'>",
+          "options": [
+            { "text": "barking" },
+            { "text": "bark" },
+            { "text": "barked" }
+          ],
+          "answer": 0,
+          "explanation": "This completes the statement about what the dog is doing."
+        },
+        {
+          "questionNo": 15,
+          "question": "Which sentence shows surprise?",
+          "options": [
+            { "text": "The cake is chocolate." },
+            { "text": "Is the cake chocolate?" },
+            { "text": "Wow, what a delicious cake!" }
+          ],
+          "answer": 2,
+          "explanation": "This shows strong feelings about the cake."
+        },
+        {
+          "questionNo": 16,
+          "question": "What kind of sentence is <br><span style='color: blue; font-weight: bold;'>\"Please tie your shoelaces.\"</span>?<br> <img width='150px' src='./assests/images/question/16.png'>",
+          "options": [
+            { "text": "Question" },
+            { "text": "Statement" },
+            { "text": "Command" }
+          ],
+          "answer": 2,
+          "explanation": "It's telling someone to do something."
+        },
+        {
+          "questionNo": 17,
+          "question": "Fill in the blank:<br><span style='color: blue; font-weight: bold;'> \"_____ is your favourite colour?\" is a question.</span>",
+          "options": [
+            { "text": "What" },
+            { "text": "This" },
+            { "text": "That" }
+          ],
+          "answer": 0,
+          "explanation": "Many questions start with words like \"what,\" \"where,\" \"when,\" etc."
+        },
+        {
+          "questionNo": 18,
+          "question": "Which sentence is stating a fact?",
+          "options": [
+            { "text": "Do fish swim?" },
+            { "text": "Fish live in water." },
+            { "text": "Swim like a fish!" }
+          ],
+          "answer": 1,
+          "explanation": "This tells us a fact about fish."
+        },
+        {
+          "questionNo": 19,
+          "question": "What type of sentence is <br><span style='color: blue; font-weight: bold;'> \"Watch out for the bee!\"</span>?<br> <img width='150px' src='./assests/images/question/19.png'>",
+          "options": [
+            { "text": "Statement" },
+            { "text": "Question" },
+            { "text": "Exclamation" }
+          ],
+          "answer": 2,
+          "explanation": "It's a warning said with urgency."
+        },
+        {
+          "questionNo": 20,
+          "question": "Fill in the blank:<br><span style='color: blue; font-weight: bold;'> \"_____ your hands\" is a command.</span><br> <img width='150px' src='./assests/images/question/20.png'>",
+          "options": [
+            { "text": "Washing" },
+            { "text": "Washed" },
+            { "text": "Wash" }
+          ],
+          "answer": 2,
+          "explanation": "Commands often start with an action word on what to do."
+        },
+        {
+          "questionNo": 21,
+          "question": "Which sentence matches the picture? <br><img width='200px' src='./assests/images/question/21.png'>",
+          "options": [
+            { "text": "The cowboy has a pouch full of coins." },
+            { "text": "The clown has a pouch full of coins?" }
+          ],
+          "answer": 0,
+          "explanation": "The cowboy has a pouch full of coins."
+        }
+      ]
+    }
+  ]
+}
